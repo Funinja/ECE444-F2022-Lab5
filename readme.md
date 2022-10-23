@@ -4,12 +4,6 @@ Dennis Lam, Joseph Sawaya
 ## Description
 This repository is a clone of https://github.com/nelaturuk/education_pathways.
 
-## Setup Instructions
-
-### With Docker
-
-
-
 ## Repository files:
 
 `./Procfile ./wsgi.py` *tells gunicorn how to run the program*
@@ -32,3 +26,7 @@ This repository is a clone of https://github.com/nelaturuk/education_pathways.
 `./templates:` *contains flask templates for rendering HTML*
 
 `_formhelpers.html course.html       index.html        results.html`
+
+## Activity 1:
+<br>
+![](images/activity1.jpg)
