@@ -28,5 +28,4 @@ This repository is a clone of https://github.com/nelaturuk/education_pathways.
 `_formhelpers.html course.html       index.html        results.html`
 
 ## Activity 1:
-<br>
 ![](images/activity1.jpg)
