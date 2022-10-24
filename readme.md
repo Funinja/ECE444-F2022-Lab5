@@ -32,14 +32,16 @@ This repository is a clone of https://github.com/nelaturuk/education_pathways.
 
 ## Activity 2-5:
 
-**Activity 2**
+**Home Page**
 <br>
 ![](images/home.jpg)
 <br>
-**Activity 2**
+
+**Results Page – Form**
 <br>
 ![](images/form.jpg)
 <br>
-**Activity 2**
+
+**Results Page – Results Table**
 <br>
 ![](images/results.jpg)
