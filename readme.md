@@ -45,3 +45,17 @@ This repository is a clone of https://github.com/nelaturuk/education_pathways.
 **Results Page – Results Table**
 <br>
 ![](images/results.jpg)
+
+## Activity 6:
+
+**User Story 1.1 – Dropdown Searchbar**
+<br>
+![](images/userstory1.jpg)
+
+**User Story 1.2 – Search Filter**
+<br>
+![](images/userstory2.jpg)
+
+**User Story 2.2 – Syllabus Access**
+<br>
+![](images/userstory3.jpg)
