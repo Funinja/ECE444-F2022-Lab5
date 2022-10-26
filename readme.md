@@ -48,7 +48,7 @@ This repository is a clone of https://github.com/nelaturuk/education_pathways.
 
 ## Activity 6:
 
-**User Story 1.1 – Dropdown Searchbar**
+**User Story 1.1 – Dropdown Search Bar**
 <br>
 ![](images/userstory1.jpg)
 
